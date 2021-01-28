@@ -61,6 +61,6 @@ Funciones adicionales:
         return Math.tan(a);
     }
     
-Funcionalidad
-Cada función es llamada respectivamente en cada botón asignado el cual luego de la acción clic dara la respuesta en la pantalla por medio de la acción
+Funcionalidad:
+- Cada función es llamada respectivamente en cada botón asignado el cual luego de la acción clic dara la respuesta en la pantalla por medio de la acción
     "txt_respuesta.setText();" 
